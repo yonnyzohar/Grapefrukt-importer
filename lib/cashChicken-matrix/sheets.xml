@@ -1,0 +1,20 @@
+<Textures>
+  <TextureSheet name="farmcashchickenanim">
+    <Texture name="ChickenFinger" width="26" height="25" path="ChickenFinger.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="15"/>
+    <Texture name="stick" width="66" height="158" path="stick.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="14"/>
+    <Texture name="chickLeg1" width="24" height="71" path="chickLeg1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="13"/>
+    <Texture name="chickLeg2" width="31" height="72" path="chickLeg2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="12"/>
+    <Texture name="egg2" width="73" height="79" path="egg2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="chickBody" width="66" height="69" path="chickBody.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="chickWing1" width="39" height="44" path="chickWing1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="egg" width="72" height="91" path="egg.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="chickWing2" width="41" height="41" path="chickWing2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="eggShadow" width="52" height="24" path="eggShadow.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="chickenHand1" width="101" height="81" path="chickenHand1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="chickenBody" width="200" height="175" path="chickenBody.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="chickenHead" width="161" height="149" path="chickenHead.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="chickenHand2" width="87" height="86" path="chickenHand2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="Gold" width="471" height="166" path="Gold.png" registrationPointX="2.00" registrationPointY="0.00" zIndex="1"/>
+    <Texture name="kash" width="569" height="96" path="kash.png" registrationPointX="284.00" registrationPointY="48.00"/>
+  </TextureSheet>
+</Textures>

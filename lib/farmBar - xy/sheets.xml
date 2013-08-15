@@ -1,0 +1,35 @@
+<Textures>
+  <TextureSheet name="farmfarmbaranim_hd">
+    <Texture name="wolfHand2" width="51" height="46" path="wolfHand2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="14"/>
+    <Texture name="mug" width="1128" height="1246" path="mug.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="13" frameCount="160" frameWidth="94" frameHeight="89" columns="12"/>
+    <Texture name="slap1" width="66" height="87" path="slap1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="slap2" width="60" height="90" path="slap2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="slap3" width="65" height="81" path="slap3.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="slap4" width="95" height="40" path="slap4.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="slap5" width="75" height="78" path="slap5.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="wolfHand1" width="54" height="38" path="wolfHand1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="12"/>
+    <Texture name="wolfSlap1" width="106" height="105" path="wolfSlap1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="counter" width="571" height="93" path="counter.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="slap6" width="39" height="81" path="slap6.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="drink1" width="160" height="75" path="drink1.png" registrationPointX="2.00" registrationPointY="3.00" zIndex="9"/>
+    <Texture name="drink2" width="196" height="102" path="drink2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink3" width="310" height="52" path="drink3.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink4" width="353" height="74" path="drink4.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink5" width="333" height="77" path="drink5.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink6" width="343" height="78" path="drink6.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink7" width="349" height="79" path="drink7.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink8" width="362" height="79" path="drink8.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="drink9" width="368" height="79" path="drink9.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="wolfPalm" width="26" height="29" path="wolfPalm.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="wolfHand3" width="47" height="35" path="wolfHand3.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="wolfHand4" width="36" height="45" path="wolfHand4.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+   <Texture name="wolfBody" width="76" height="107" path="wolfBody.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+	
+    <Texture name="sheepArm1Bottom" width="57" height="22" path="sheepArm1Bottom.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="martini" width="37" height="66" path="martini.png" registrationPointX="2.00" registrationPointY="4.00" zIndex="4"/>
+    <Texture name="sheepArm1Top" width="27" height="42" path="sheepArm1Top.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="wolfHead" width="120" height="99" path="wolfHead.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="sheepHead" width="1116" height="1316" path="sheepHead.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1" frameCount="160" frameWidth="93" frameHeight="94" columns="12"/>
+    <Texture name="sheepBody" width="110" height="112" path="sheepBody.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="0"/>
+  </TextureSheet>
+</Textures>
